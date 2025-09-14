@@ -8,8 +8,5 @@ This frontend provides an interactive interface for users to browse menus, add i
 ## ✨ Features
 - Browse food categories and menu items
 - View item details (price, description, image)
-- Add/remove items from the shopping cart
-- Update item quantities in cart
-- Calculate total price dynamically
 - Responsive design (mobile + desktop friendly)
 - Smooth UI transitions and reusable components
